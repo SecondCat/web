@@ -15,8 +15,6 @@
 
 /* 背景 不重复，自适应，固定 */
 .bg-div {
-    background-image: url(https://c-ssl.duitang.com/uploads/blog/202204/23/20220423190327_1b354.jpeg);
-    /* background-image: url(./resources/web/bg/jpg/7.jpg); */
     z-index: 0;
     background-repeat: no-repeat;
     background-size: cover;
